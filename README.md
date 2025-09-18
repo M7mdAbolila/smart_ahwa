@@ -1,7 +1,7 @@
 # ☕ Smart Ahwa Manager
-
+## First basic Version
 A Flutter point-of-sale app built for a Egyptian café (“قهوة”) workflow.  
-("قهوة") workflow.\
+
 It stores data locally with **Hive**, follows **OOP + SOLID + Clean
 Architecture**,\
 and uses **Cubit (flutter_bloc)** for state management.
@@ -57,7 +57,7 @@ This **feature-first** layout keeps code modular and testable.
 
     ``` bash
     git clone https://github.com/M7mdAbolila/smart_ahwa.git
-    cd smart_ahwa_manager
+    cd smart_ahwa
     ```
 
 2.  **Install packages**
